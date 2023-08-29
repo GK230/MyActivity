@@ -1,0 +1,2 @@
+# MyActivity
+An activity diary
